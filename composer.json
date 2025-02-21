@@ -1,11 +1,11 @@
 {
-    "name": "spatie/data-transfer-object",
+    "name": "korot1245/data-transfer-object",
     "description": "Data transfer objects with batteries included",
     "keywords": [
         "spatie",
         "data-transfer-object"
     ],
-    "homepage": "https://github.com/spatie/data-transfer-object",
+    "homepage": "https://github.com/korot1245/data-transfer-object",
     "license": "MIT",
     "authors": [
         {
